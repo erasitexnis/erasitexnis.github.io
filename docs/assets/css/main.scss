@@ -1,0 +1,29 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+.page__footer {
+    background-color: #f3f3f3;
+  }
+
+article.page {
+    float: left;
+    width: 100%;
+}
+
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+    border: 2px solid black;
+}
+
+.page__date {
+    display: none;
+}
