@@ -1,7 +1,7 @@
-title: "Erasitexnis - Ερασιτέχνης"
+title: "Erasitexnis"
 description: >-
   Personal website of artist Aristeidis Apladas - Προσωπική ιστοσελίδα του καλλιτέχνη Αριστείδη Απλαδά
-subtitle: "Aristeidis Apladas - Αριστείδης Απλαδάς"
+subtitle: "Aristeidis Apladas"
 domain: erasitexnis.github.io
 url: https://erasitexnis.github.io
 name: erasitexnis
@@ -40,7 +40,7 @@ plugins:
 #paginate: 5
 minimal_mistakes_skin: "dirt"
 #locale: "en"
-logo: "/assets/info/erasitexnis.100.jpg"
+logo: "/assets/about/erasitexnis.100.jpg"
 
 defaults:
   - scope:

@@ -1,6 +1,6 @@
 # main links
 main:
-   - title: "Info"
-     url: /info.html
-   - title: "Πληροφορίες"
-     url: /info-gr.html
+   - title: "About"
+     url: /about.html
+   - title: "Σχετικά"
+     url: /about-gr.html

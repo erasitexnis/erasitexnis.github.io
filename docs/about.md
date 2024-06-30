@@ -1,5 +1,5 @@
 ---
-title: Info
+title: About
 date: 2024-05-11T00:16:26+01:00
 author: erasitexnis
 layout: single
@@ -7,7 +7,7 @@ classes: wide
 show_date: false
 ---
 
-![Aristeidis Apladas](/assets/info/aris.jpg){: .center-image }
+![Aristeidis Apladas](/assets/about/aris.jpg){: .center-image }
 
 ### Aristeidis Apladas
 
@@ -17,7 +17,7 @@ show_date: false
 
 ### Contact & social networks
 
-  * E-mail: ![My e-mail address](/assets/info/email.png)
+  * E-mail: ![My e-mail address](/assets/about/email.png)
   * <a href="https://www.instagram.com/a.erasitexnis">View my Instagram profile</a>
   * <a href="http://www.facebook.com/profile.php?id=100011985462649">View my Facebook profile</a>
 

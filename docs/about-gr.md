@@ -1,5 +1,5 @@
 ---
-title: Πληροφορίες
+title: Σχετικά
 date: 2024-05-11T00:16:26+01:00
 author: erasitexnis
 layout: single
@@ -7,7 +7,7 @@ classes: wide
 show_date: false
 ---
 
-![Αριστείδης Απλαδάς](/assets/info/aris.jpg){: .center-image }
+![Αριστείδης Απλαδάς](/assets/about/aris.jpg){: .center-image }
 
 ### Αριστείδης Απλαδάς
 
@@ -17,7 +17,7 @@ show_date: false
 
 ### Επικοινωνία & κοινωνικά δίκτυα
 
-  * E-mail: ![My e-mail address](/assets/info/email.png)
+  * E-mail: ![My e-mail address](/assets/about/email.png)
   * <a href="https://www.instagram.com/a.erasitexnis">Δείτε το Instagram μου</a>
   * <a href="http://www.facebook.com/profile.php?id=100011985462649">Δείτε το Facebook μου</a>
 
