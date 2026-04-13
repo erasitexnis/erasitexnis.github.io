@@ -5,6 +5,7 @@
 body{
     margin: 0;
     font-size: 1.3vh;
+    background-color: #e4decd;
 }
 
 div.nav{
@@ -12,7 +13,7 @@ div.nav{
     top: 0;
     width: 100vw;
     height: 5vh;
-    background-color: lightgray;
+    background-color: #c9af98;
     z-index: 2;
     border-radius: 0 0 2vh 2vh;
 }
@@ -33,7 +34,7 @@ button.lang_toggle{
     top: 1vh;
     border:0;
     padding:0;
-    background-color: lightgray;
+    background-color: #c9af98;
 }
 
 img.lang_img{
@@ -46,7 +47,7 @@ div.con1{
     position: relative;
     margin-block: 30vh;
     height: 40vh;
-    background-color: oldlace;
+    background-color: #c2b490;
     width: 90vw;
     margin-inline: 5vw;
     border-radius: 3vh;
