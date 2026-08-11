@@ -5,6 +5,18 @@ classes: wide
 show_date: false
 ---
 
+<div class="video-container" style="max-width: 100%; margin-bottom: 40px; text-align: center;">
+  <p style="font-size: 1.2rem; margin-bottom: 15px; font-weight: bold;">Exhibition Video</p>
+  <video controls width="100%" style="max-width: 800px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+    <source src="/assets/exhibit/ga1v.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
+<div style="margin-bottom: 40px; max-width: 800px; margin-left: auto; margin-right: auto;">
+  <p>Exhibition set at PLACEHOLDER</p>
+</div>
+
 gallery:
   - url: https://wsrv.nl/?url=erasitexnis.github.io/assets/exhibit/ga1.jpg
     image_path: https://wsrv.nl/?url=erasitexnis.github.io/assets/exhibit/ga1.jpg&w=600&h=600&fit=contain&cbg=F3F3F3
@@ -39,18 +51,4 @@ gallery:
     alt: "Picture 8"
     title: "Title 8 pending"
 
-<div class="video-container" style="max-width: 100%; margin-bottom: 40px; text-align: center;">
-  <p style="font-size: 1.2rem; margin-bottom: 15px; font-weight: bold;">Exhibition Video</p>
-  <video controls width="100%" style="max-width: 800px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-    <source src="/assets/exhibit/ga1v.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
-
-<div style="margin-bottom: 40px; max-width: 800px; margin-left: auto; margin-right: auto;">
-  <p>Exhibition set at PLACEHOLDER</p>
-</div>
-
-<h2 style="text-align: center; margin-bottom: 30px;">Gallery</h2>
-
-{% include gallery caption="Click on an image to view details" %}
+{% include gallery caption="" %}
