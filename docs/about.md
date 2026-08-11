@@ -17,6 +17,7 @@ show_date: false
 
 ### Contact & social networks
 
+  * <a href="tel:+306977432086">Cellphone number: +30 697 743 2086</a>
   * <a href="mailto:aapladas@gmail.com">Email me</a>
   * <a href="https://www.instagram.com/a.erasitexnis">View my Instagram profile</a>
   * <a href="http://www.facebook.com/profile.php?id=100011985462649">View my Facebook profile</a>
