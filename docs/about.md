@@ -17,7 +17,7 @@ show_date: false
 
 ### Contact & social networks
 
-  * E-mail: ![My e-mail address](/assets/about/email.png)
+  * <a href="mailto:aapladas@gmail.com">Email me</a>
   * <a href="https://www.instagram.com/a.erasitexnis">View my Instagram profile</a>
   * <a href="http://www.facebook.com/profile.php?id=100011985462649">View my Facebook profile</a>
 
