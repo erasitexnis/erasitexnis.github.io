@@ -17,7 +17,8 @@ show_date: false
 
 ### Επικοινωνία & κοινωνικά δίκτυα
 
-  * E-mail: ![My e-mail address](/assets/about/email.png)
+  * <a href="tel:+306977432086">Τηλέφωνο: 697 743 2086</a>
+  * <a href="mailto:aapladas@gmail.com">Στείλτε μου Email</a>
   * <a href="https://www.instagram.com/a.erasitexnis">Δείτε το Instagram μου</a>
   * <a href="http://www.facebook.com/profile.php?id=100011985462649">Δείτε το Facebook μου</a>
 

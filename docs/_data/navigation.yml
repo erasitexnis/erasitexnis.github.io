@@ -2,5 +2,10 @@
 main:
    - title: "About"
      url: /about.html
+   - title: "Exhibitions"
+     url: /exhibit.html
    - title: "Σχετικά"
      url: /about-gr.html
+   - title: "Εκθέσεις"
+     url: /exhibit-gr.html
+     
